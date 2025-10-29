@@ -1,4 +1,4 @@
-# ☕ Google Maps Reviews Sentiment Analysis: Shovel Roastery Al Yasmin �
+# ☕ Google Maps Reviews Sentiment Analysis: Shovel Roastery Al Yasmin 
 
 ## Project Overview
 This repository contains a robust Python pipeline for extracting, cleaning, translating, and analyzing sentiment from Google Maps reviews, specifically focusing on **Shovel Roastery's Al Yasmin branch**.  
