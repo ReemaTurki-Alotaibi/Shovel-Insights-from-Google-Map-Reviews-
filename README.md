@@ -51,4 +51,8 @@ The project leverages advanced **Natural Language Processing (NLP)** techniques,
 4. **Explore Dashboard**  
    Access the **interactive Tableau dashboard** to visualize sentiment trends and customer insights: [View Dashboard](https://public.tableau.com/views/YourDashboardLink)
 
+### 👩‍💻 Authors
+
+🔗 [LinkedIn](https://www.linkedin.com/in/reematurki-alotaibi)
+
 ---
