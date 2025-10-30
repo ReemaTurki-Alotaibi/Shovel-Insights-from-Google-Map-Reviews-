@@ -48,7 +48,7 @@ The project leverages advanced **Natural Language Processing (NLP)** techniques,
 3. **Analyze Results**  
    Review the generated plots (**Sentiment Trend**, **Sentiment vs Rating**, **Word Clouds**) and the final summary to uncover key business insights.
 
-   4. **Explore Dashboard**  
+4. **Explore Dashboard**  
    Access the **interactive Tableau dashboard** to visualize sentiment trends and customer insights: [View Dashboard](https://public.tableau.com/views/YourDashboardLink)
 
 ---
